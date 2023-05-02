@@ -6,8 +6,7 @@
 
 **pedrocsfranca/pedrocsfranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Python and React
-- 📫 How to reach me: pedro.cletosf@gmail.com
+- 🌱 Atualmente estou aprendendo Python e React
+- 📫 Como entrar em contato: pedro.cletosf@gmail.com
