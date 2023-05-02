@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Python and React
-- 📫 Como entrar em contato: pedro.cletosf@gmail.com
+- 📫 How to reach me: pedro.cletosf@gmail.com
