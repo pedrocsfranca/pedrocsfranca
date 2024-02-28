@@ -7,5 +7,5 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Python e React
+- 🌱 Atualmente estou aprendendo Python e NodeJs
 - 📫 Como entrar em contato: pedro.cletosf@gmail.com
